@@ -34,3 +34,27 @@ a:focus {
     text-align: center;
     font-size: 60px;
 }
+
+.article {
+    margin-left: 20px;
+    margin-right: 20px;
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+    border-color: white;
+    color: white;
+}
+
+.article-preview {
+    display: flex;
+    margin-top: 20px;
+}
+
+.article-miniature {
+    height: 120px;
+    width: 120px;
+}
+
+.article-title {
+    font-size: 40px;
+    margin-left: 20px;
+}
