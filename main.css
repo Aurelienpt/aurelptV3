@@ -2,6 +2,7 @@ body {
     font-family: 'Hind', sans-serif;
     margin: 0px;
     background-color: #242542;
+    margin-bottom: 20px;
 }
 
 a {
@@ -33,6 +34,19 @@ a:focus {
     color: white;
     text-align: center;
     font-size: 60px;
+}
+
+.jeu {
+    margin-left: 20px;
+    margin-right: 20px;
+    color: white;
+}
+
+.carre {
+    width: 20px;
+    height: 20px;
+    border: solid white 1px;
+    background-color: black;
 }
 
 .article {
